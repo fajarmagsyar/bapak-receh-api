@@ -1,0 +1,504 @@
+{
+  "lelucon": [
+   {
+     "id": 1,
+     "kategori": "bapak-bapak",
+     "konten": "Benda apa yang warnanya hitam, putih, merah? Zebra habis kerokan."
+   },
+   {
+     "id": 2,
+     "kategori": "bapak-bapak",
+     "konten": "Bundaran HI kalau kita puterin tiga kali jadinya apa? HIHIHI, ngakak banget."
+   },
+   {
+     "id": 3,
+     "kategori": "bapak-bapak",
+     "konten": "Apa persamaan antara uang dan rahasia? Keduanya susah dipegang."
+   },
+   {
+     "id": 4,
+     "kategori": "bapak-bapak",
+     "konten": "Benda apa yang habis kita beli malah langsung dibuang? Peti mati."
+   },
+   {
+     "id": 5,
+     "kategori": "bapak-bapak",
+     "konten": "Kenapa kalau naik taksi kita tidak bayar uang dulu? Soalnya uang dulu sudah tidak laku."
+   },
+   {
+     "id": 6,
+     "kategori": "bapak-bapak",
+     "konten": "Hewan apa yang kalau pagi sering terlambang ke sekolah? Kaki seribu, karena pakai sepatunya lama."
+   },
+   {
+     "id": 7,
+     "kategori": "bapak-bapak",
+     "konten": "Huruf apa yang selalu kedinginan? Huruf B, soalnya ada di tengah AC."
+   },
+   {
+     "id": 8,
+     "kategori": "bapak-bapak",
+     "konten": "Apa persamaan kain jemuran dan telepon? Sama-sama harus diangkat kalau sudah ‘kringgg’."
+   },
+   {
+     "id": 9,
+     "kategori": "bapak-bapak",
+     "konten": "Binatang apa yang kalau kita injak engga marah? Kera-mik."
+   },
+   {
+     "id": 10,
+     "kategori": "bapak-bapak",
+     "konten": "Telur apa yang paling sangar? Telur asin, karena ada tatonya."
+   },
+   {
+     "id": 11,
+     "kategori": "bapak-bapak",
+     "konten": "Apa yang bikin telur asin takut? Telur puyuh, soalnya tatonya lebih banyak."
+   },
+   {
+     "id": 12,
+     "kategori": "bapak-bapak",
+     "konten": "Selain uang, apa yang selalu orang cari? Benda yang hilang."
+   },
+   {
+     "id": 13,
+     "kategori": "bapak-bapak",
+     "konten": "Siapa penyanyi yang selalu tabah dan legowo? Pasrah Ungu (Pasha Ungu)."
+   },
+   {
+     "id": 14,
+     "kategori": "bapak-bapak",
+     "konten": "Uang Rp100 ribu kalau dilempar akan jadi apa? Jadi rebutan, dong!"
+   },
+   {
+     "id": 15,
+     "kategori": "bapak-bapak",
+     "konten": "Kenapa pesawat terbang tidak bisa mundur? Karena nggak punya spion."
+   },
+   {
+     "id": 16,
+     "kategori": "bapak-bapak",
+     "konten": "Ditusuk bukan sate, dijaring bukan ikan. Apakah itu? Konde."
+   },
+   {
+     "id": 17,
+     "kategori": "bapak-bapak",
+     "konten": "Kenapa ayam berkokok dengan mata tertutup? Soalnya sudah hapal teksnya."
+   },
+   {
+     "id": 18,
+     "kategori": "bapak-bapak",
+     "konten": "Kenapa orang suka megang jidatnya waktu lagi berpikir? Karena gak mungkin mereka megang jidat orang lain!"
+   },
+   {
+     "id": 19,
+     "kategori": "bapak-bapak",
+     "konten": "Nyopet apa yang paling nekat? Nyopet gigi emas."
+   },
+   {
+     "id": 20,
+     "kategori": "bapak-bapak",
+     "konten": "Coba tebak, tentara apa yang paling kecil? Tentara sekutu!"
+   },
+   {
+     "id": 21,
+     "kategori": "bapak-bapak",
+     "konten": "Sotong kalau kita belah dua jadi apa? Sotong-ah (setengah)."
+   },
+   {
+     "id": 22,
+     "kategori": "bapak-bapak",
+     "konten": "Binatang apa yang ternyata bersaudara? Katak beradik."
+   },
+   {
+     "id": 23,
+     "kategori": "bapak-bapak",
+     "konten": "Jenis burung apa yang sering bolak-balik ke toilet? Burung pipits (pipis)."
+   },
+   {
+     "id": 24,
+     "kategori": "bapak-bapak",
+     "konten": "Ada bebek sepuluh ekor di kali dua, jadinya berapa? Delapan, karena yang dua lagi main di kali."
+   },
+   {
+     "id": 25,
+     "kategori": "bapak-bapak",
+     "konten": "Apa bahasa India dari bumbu dapur? Tumbar miri jahe (ketumbar, kemiri, jahe)."
+   },
+   {
+     "id": 26,
+     "kategori": "bapak-bapak",
+     "konten": "Apa alasannya kita harus baca doa sebelum minum air? Karena di dalam air ada tiga jin, yaitu dua hidrojin dan 1 oksijin."
+   },
+   {
+     "id": 27,
+     "kategori": "bapak-bapak",
+     "konten": "Tahu tidak, lele apa yang bisa terbang dan punya sayap? Lelelawar dong!"
+   },
+   {
+     "id": 28,
+     "kategori": "bapak-bapak",
+     "konten": "Kalau ditutup kelihatan, tapi kalau dibuka malah nggak ada. Apakah itu? Pintu rel kereta api."
+   },
+   {
+     "id": 29,
+     "kategori": "bapak-bapak",
+     "konten": "Hewan apa yang paling sehat? Ularaga (olahraga)."
+   },
+   {
+     "id": 30,
+     "kategori": "bapak-bapak",
+     "konten": "Kalau hitam katanya bersih, tetapi ketika putih dibilang kotor. Apakah itu? Papan tulis."
+   },
+   {
+     "id": 31,
+     "kategori": "bapak-bapak",
+     "konten": "Posisinya selalu di pojok, tetapi bisa keliling dunia? Perangko."
+   },
+   {
+     "id": 32,
+     "kategori": "bapak-bapak",
+     "konten": "Kucing, kucing apa yang kuno? Kucinggalan jaman."
+   },
+   {
+     "id": 33,
+     "kategori": "bapak-bapak",
+     "konten": "Gajah-gajah apa yang paling baik hati? Gajah-at."
+   },
+   {
+     "id": 34,
+     "kategori": "bapak-bapak",
+     "konten": "Kamu tahu siapa pemain bola yang beratnya 3 kg? Bambang tabung gas."
+   },
+   {
+     "id": 35,
+     "kategori": "bapak-bapak",
+     "konten": "Kesenian apa yang setiap hari dilakukan nasabah bank? Tari-k tunai."
+   },
+   {
+     "id": 36,
+     "kategori": "bapak-bapak",
+     "konten": "Kenapa poni keriting Superman hanya satu? Karena kalau banyak namanya Supermi."
+   },
+   {
+     "id": 37,
+     "kategori": "bapak-bapak",
+     "konten": "Sebutkan sepuluh hewan buas dalam dua detik! Sepuluh singa."
+   },
+   {
+     "id": 38,
+     "kategori": "bapak-bapak",
+     "konten": "Gendang gendang apa yang tidak bisa kita pukul? Gendang telinga."
+   },
+   {
+     "id": 39,
+     "kategori": "bapak-bapak",
+     "konten": "Sebutkan nama buah yang pernah menjajah Indonesia? Terong Belanda."
+   },
+   {
+     "id": 40,
+     "kategori": "bapak-bapak",
+     "konten": "Benda apa yang bulat, kecil, hitam, dan jika dipencet keluar orangnya? Bel pintu."
+   },
+   {
+     "id": 41,
+     "kategori": "bapak-bapak",
+     "konten": "Gerakan apa yang paling sulit untuk kita lakukan? Move on."
+   },
+   {
+     "id": 42,
+     "kategori": "bapak-bapak",
+     "konten": "Kipas apa yang paling wanita tunggu? Kipastian untuk dilamar pasangannya."
+   },
+   {
+     "id": 43,
+     "kategori": "bapak-bapak",
+     "konten": "Sayur, sayur apa yang paling romantis? Toge, apalagi kalau toge-ther with you."
+   },
+   {
+     "id": 44,
+     "kategori": "bapak-bapak",
+     "konten": "Kalau kita sakit rindu, menurutmu harus pergi ke mana? Ke ruangan I see you (ICU) lah!"
+   },
+   {
+     "id": 45,
+     "kategori": "bapak-bapak",
+     "konten": "Tahu tidak apa alasannya bagian tengah donat bolong? Soalnya yang utuh hanya cinta saya ke istri."
+   },
+   {
+     "id": 46,
+     "kategori": "bapak-bapak",
+     "konten": "Awali pagi dengan sarapan, soalnya kalau dengan senyuman nanti jam 10 sudah lapar lagi."
+   },
+   {
+     "id": 47,
+     "kategori": "bapak-bapak",
+     "konten": "Untuk yang sedang mudik, hati-hati di jalan. Namun yang sudah di hati, jangan jalan-jalan."
+   },
+   {
+     "id": 48,
+     "kategori": "bapak-bapak",
+     "konten": "Coba tebak kenapa orang Indonesia suka nanya “kapan nikah”? Soalnya Indonesia itu negara “marrytime”."
+   },
+   {
+     "id": 49,
+     "kategori": "bapak-bapak",
+     "konten": "Tahu enggak kenapa donat tengahnya bolong? Karena yang utuh hanya cinta saya ke bunda, hehehe."
+   },
+   {
+     "id": 50,
+     "kategori": "bapak-bapak",
+     "konten": "Apa kepanjangan dari Pikachu? Pikiran kacau thinking bout chu."
+   },
+   {
+     "id": 51,
+     "kategori": "bapak-bapak",
+     "konten": "Jas apa yang bikin hangat di musim hujan? Ja be mine."
+   },
+   {
+     "id": 52,
+     "kategori": "bapak-bapak",
+     "konten": "Harus dilarikan ke mana pasien yang terkena gejala rindu? Ke ruang I see you (ICU)."
+   },
+   {
+     "id": 53,
+     "kategori": "bapak-bapak",
+     "konten": "Kenapa zombi kalau nyerang barengan? Karena kalau sendiri itu zomblo, haha."
+   },
+   {
+     "id": 54,
+     "kategori": "bapak-bapak",
+     "konten": "Sepertinya saya terkena virus penyakit baru. Lihat kamu senyum, jadi sayang."
+   },
+   {
+     "id": 55,
+     "kategori": "bapak-bapak",
+     "konten": "Jalan apa yang selalu mentok? Jalan hatiku yang mentok di depan pintu hatimu."
+   },
+   {
+     "id": 56,
+     "kategori": "bapak-bapak",
+     "konten": "Tahu tidak kenapa menara Pisa bentuknya miring? Soalnya ketarik sama senyuman kamu."
+   },
+   {
+     "id": 57,
+     "kategori": "bapak-bapak",
+     "konten": "Awan apa yang jadi harapan terbesarku? Awanna be with you forever."
+   },
+   {
+     "id": 58,
+     "kategori": "bapak-bapak",
+     "konten": "Apa lanjutan dari pantun, “ikan hiu, ikan cucut”? I love you, you’re so cute."
+   },
+   {
+     "id": 59,
+     "kategori": "bapak-bapak",
+     "konten": "Tahu gak sih apa bedanya kamu sama kipas? Kalau kipas bisa bikin masuk angin, kalau kamu bisa bikin kangen."
+   },
+   {
+     "id": 60,
+     "kategori": "bapak-bapak",
+     "konten": "Kamu itu seperti lempengan bumi, soalnya kalay geser sedikit hati aku langsung gempa."
+   },
+   {
+     "id": 61,
+     "kategori": "bapak-bapak",
+     "konten": "Hewan apa yang namanya hanya dari satu huruf? G ajah."
+   },
+   {
+     "id": 62,
+     "kategori": "bapak-bapak",
+     "konten": "Kalau ayam berkokok, berarti harimau….? Hari mau pagi."
+   },
+   {
+     "id": 63,
+     "kategori": "bapak-bapak",
+     "konten": "Apa yang jauh di mata, tapi dekat di hati? Udel."
+   },
+   {
+     "id": 64,
+     "kategori": "bapak-bapak",
+     "konten": "Gajah apa yang punya belalai pendek? Gajah pesek."
+   },
+   {
+     "id": 65,
+     "kategori": "bapak-bapak",
+     "konten": "Apa yang kalau dipotong malah semakin tinggi? Celana."
+   },
+   {
+     "id": 66,
+     "kategori": "bapak-bapak",
+     "konten": "Kenapa superman ada huruf S di bajunya? Karena kalau pakai M atau XL jadi kegedean."
+   },
+   {
+     "id": 67,
+     "kategori": "bapak-bapak",
+     "konten": "Kalau dibeli warnanya hitam, kalau dibakar warnanya merah, kalau dibuang warnanya abu-abu, coba tebak apa? Arang."
+   },
+   {
+     "id": 68,
+     "kategori": "bapak-bapak",
+     "konten": "Kenapa ada pintu yang didorong sepuluh orang pun tidak terbuka? Karena di atasnya ada tulisan “Tarik”."
+   },
+   {
+     "id": 69,
+     "kategori": "bapak-bapak",
+     "konten": "Kalau rambut putih namanya uban, rambut hijau namanya apa? Rambutan belum matang."
+   },
+   {
+     "id": 70,
+     "kategori": "bapak-bapak",
+     "konten": "Kopi apa yang punya kemampuan mencapit? Kopi-ting."
+   },
+   {
+     "id": 71,
+     "kategori": "bapak-bapak",
+     "konten": "Apa nama suku yang sering ada di mal? Suku-riti."
+   },
+   {
+     "id": 72,
+     "kategori": "bapak-bapak",
+     "konten": "Kamu tahu kenapa kawanan burung terbang ke selatan waktu musim dingin? Soalnya kalau harus jalan kejauhan."
+   },
+   {
+     "id": 73,
+     "kategori": "bapak-bapak",
+     "konten": "Kalau dibalik langsung rusak, benda apa itu? Kasur (dibaca dari belakang jadi rusak)."
+   },
+   {
+     "id": 74,
+     "kategori": "bapak-bapak",
+     "konten": "Sapi apa yang bisa menempel di dinding? Sapi-derman."
+   },
+   {
+     "id": 75,
+     "kategori": "bapak-bapak",
+     "konten": "Benda apa yang kepalanya merah, jalannya mundur? Obat nyamuk bakar."
+   },
+   {
+     "id": 76,
+     "kategori": "bapak-bapak",
+     "konten": "Sebutkan nama buah yang paling durhaka! Melon (Melon Kundang)."
+   },
+   {
+     "id": 77,
+     "kategori": "bapak-bapak",
+     "konten": "Buah apa yang paling nyolot? Apel-o!"
+   },
+   {
+     "id": 78,
+     "kategori": "bapak-bapak",
+     "konten": "Apa perbedaan antara semut dan orang? Orang bisa kesemutan, tetapi semut nggak bisa keorangan."
+   },
+   {
+     "id": 79,
+     "kategori": "bapak-bapak",
+     "konten": "Hantu apa yang bisa dilihat setiap hari? Burung hantu, dong."
+   },
+   {
+     "id": 80,
+     "kategori": "bapak-bapak",
+     "konten": "Apa persamaan antara KTP dan telor asin? Sama-sama punya cap stempel."
+   },
+   {
+     "id": 81,
+     "kategori": "bapak-bapak",
+     "konten": "Kalau detektif dan buaya bergabung, jadinya apa? Investi-gator (dari bahasa Inggris detektif dan buaya)."
+   },
+   {
+     "id": 82,
+     "kategori": "bapak-bapak",
+     "konten": "Bukit apa yang tidak mungkin? Musta-hill."
+   },
+   {
+     "id": 83,
+     "kategori": "bapak-bapak",
+     "konten": "Tahu gak apa bahasa Inggrisnya ikan sapu-sapu? Cleaning share fish (cleaning service)."
+   },
+   {
+     "id": 84,
+     "kategori": "bapak-bapak",
+     "konten": "Tadi saya makan bubur, buburnya kecil tapi kok tiba-tiba jadi besar. Taunya ternyata itu bubur zoom zoom."
+   },
+   {
+     "id": 85,
+     "kategori": "bapak-bapak",
+     "konten": "Kenapa kursi masuk kategori benda padat, padahal jelas-jelas dia chair (cair)."
+   },
+   {
+     "id": 86,
+     "kategori": "bapak-bapak",
+     "konten": "Warna apa yang paling bodo amat? Biru don’t care."
+   },
+   {
+     "id": 87,
+     "kategori": "bapak-bapak",
+     "konten": "Tahu tidak sepatu apa yang ngebet tes bahasa Inggris? Sepatu pen-TOEFL (pantofel)."
+   },
+   {
+     "id": 88,
+     "kategori": "bapak-bapak",
+     "konten": "Ikan apa yang paling sering bikin sakit hati? Ikan-t (I can’t) love you."
+   },
+   {
+     "id": 89,
+     "kategori": "bapak-bapak",
+     "konten": "Sayur apa yang selalu kedinginan sepanjang tahun? Kembang cool (kol)."
+   },
+   {
+     "id": 90,
+     "kategori": "bapak-bapak",
+     "konten": "Binatang apa yang tidak kunjung sampai ke tujuan? Lama (llama)."
+   },
+   {
+     "id": 91,
+     "kategori": "bapak-bapak",
+     "konten": "Kota kota apa yang paling banyak bapak-bapaknya? Purwodaddy (Purwodadi, Jawa Tengah)."
+   },
+   {
+     "id": 92,
+     "kategori": "bapak-bapak",
+     "konten": "Kenapa di komputer kita ada tulisan “Enter”? Soalnya kalau tulisannya “Entar” nanti programnya mandek."
+   },
+   {
+     "id": 93,
+     "kategori": "bapak-bapak",
+     "konten": "Huruf apa yang selalu kedinginan? Huruf B, karena ada di tengah-tengah AC."
+   },
+   {
+     "id": 94,
+     "kategori": "bapak-bapak",
+     "konten": "Ayam apa yang suka minta maaf? Ayam soriiiiii (I am sorry)."
+   },
+   {
+     "id": 95,
+     "kategori": "bapak-bapak",
+     "konten": "Binatang apa yang dekat sama teman-temannya? A crab."
+   },
+   {
+     "id": 96,
+     "kategori": "bapak-bapak",
+     "konten": "Coba tebak, kenapa air mata warnanya bening? Soalnya kalau warna hijau itu air matcha (teh hijau)."
+   },
+   {
+     "id": 97,
+     "kategori": "bapak-bapak",
+     "konten": "Sayur, sayur apa yang bisa nyanyi? Kol-play (Coldplay)."
+   },
+   {
+     "id": 98,
+     "kategori": "bapak-bapak",
+     "konten": "Ikan apa yang posisinya berhenti? Ikan paus (pause)."
+   },
+   {
+     "id": 99,
+     "kategori": "bapak-bapak",
+     "konten": "Makanan apa yang nggak boleh kita makan? Donat (Do not)."
+   },
+   {
+     "id": 100,
+     "kategori": "bapak-bapak",
+     "konten": "Hewan apa yang paling pendiam? Se-mute."
+   }
+  ]
+}
